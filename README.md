@@ -7,13 +7,14 @@
 
  *Parity Generator is a combinational logic circuit that generates the parity bit in the transmitter. On the other hand, a circuit that checks the parity in the receiver is called Parity Checker. A combined circuit or device of parity generators and parity checkers are commonly used in digital systems to detect the single bit errors in the transmitted data.
 
-# LOGIC DIAGRAM
 
 # NETLIST DIAGRAM
 ![Screenshot (19)](https://github.com/sarveshjustin/Simulation-project--Digital-Electronics/assets/113497481/987cb43c-8da2-428e-8b3d-2c838e241a00)
 
 
 # TIMING DIAGRAM
+![Screenshot (21)](https://github.com/sarveshjustin/Simulation-project--Digital-Electronics/assets/113497481/09eb6ee8-47f0-4145-937d-ed4418d9b44f)
+
 
 # PROGRAM
 ### To design:
@@ -37,5 +38,4 @@ module parity (
 endmodule
 ```
 
-# REFERENCE
-
+This project is done by sarvesh.s  (212222230135)
